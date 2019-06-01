@@ -35,5 +35,6 @@
     "prettier": "1.14.3",
     "push-dir": "^0.4.1",
     "sass-loader": "^7.1.0"
-  }
+  },
+  "homepage": "https://fulger09.github.io/rml/"
 }
