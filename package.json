@@ -2,7 +2,7 @@
   "name": "",
   "version": "1.0.0",
   "description": "rmltest",
-  "author": "rmltest2",
+  "author": "rmltest",
   "private": true,
   "scripts": {
     "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
